@@ -1,14 +1,15 @@
 ## New
 
-Examples 1-3 of assignment 1
+Ques 1-3 of assignment 1
 
-1. Hello world in openMP filename eg1.c
-2. Controlling Number of Threads
-3. Parallel FOR Loop
+1. DAXPY Loop
+2. Matrix Multiply
+3. Calculation of π
 
 ## Current
 
 1. Examples 1-3 of assignment 1
+2. Ques 1,2,3 of assignment 1
 
 ## Github Repository for UCS645
 
