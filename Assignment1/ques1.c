@@ -14,7 +14,6 @@ int main() {
         Y[i] = 2.0;
     }
 
-    // measure sequential time
     for (i = 0; i < N; i++)
         X[i] = 1.0;
 
@@ -27,7 +26,6 @@ int main() {
 
     printf("Sequential Time = %f seconds\n\n", seq_time);
 
-    // parallel execution with 2 to 12 threads
     for (threads = 2; threads <= 12; threads++) {
         double par_time, speedup;
 

@@ -10,7 +10,6 @@ int main() {
 
     step = 1.0 / (double)num_steps;
 
-    // sequential
     sum = 0.0;
     t1 = omp_get_wtime();
     for (i = 0; i < num_steps; i++) {
@@ -25,7 +24,6 @@ int main() {
     printf("Pi = %.10f\n", pi);
     printf("Time = %f\n\n", seq_time);
 
-    // parallel
     printf("Parallel:\n");
     for (threads = 2; threads <= 10; threads++) {
         double par_time, speedup;
