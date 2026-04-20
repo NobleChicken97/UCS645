@@ -1,10 +1,10 @@
 ## New
 
-Ques A,B,C assignment 6
+Ques 1,2,3 assignment 7
 
-1. Question A: Device Query using CUDA
-2. Question B: Array Sum using CUDA
-3. Question C: Matrix Addition using CUDA
+1. Problem 1: Different thread tasks for sum of first n integers
+2. Problem 2: Merge sort with pipelining and CUDA comparison
+3. Problem 3: Vector addition profiling bandwidth analysis
 
 
 
@@ -17,6 +17,7 @@ Ques A,B,C assignment 6
 5. Ques 1,2,3,4 of assignment 4
 6. Ques 1,2,3,4,5 of assignment 5
 7. Ques A,B,C of assignment 6
+8. Ques 1,2,3 of assignment 7
 
 
 
